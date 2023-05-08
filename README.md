@@ -9,4 +9,5 @@ Android Project for CSCI571 2023
 * Get familiar with third party libraries like Picasso, Glide and Volley.
 ### Reference Video (Click on the image to view)
 [![](https://github.com/VincentAC-stack/CSCI571-Web-Technologies/blob/main/Image/HW9.png)](https://www.youtube.com/watch?v=jKw4w-zuYiA "Reference Video")
-### Achievement Video: https://www.youtube.com/watch?v=ZYQYWq9zkgI
+### Achievements
+* Video: https://www.youtube.com/watch?v=ZYQYWq9zkgI
